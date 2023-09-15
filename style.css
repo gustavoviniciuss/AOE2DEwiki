@@ -1,1 +1,31 @@
+body {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  fustfy-content: flex-start;
+  align-itens: left;
+  height: 100vh;
+  margin: 0;
 
+  background-image: url;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  color: white;
+  font-family:arial;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+
+#content {
+  background-color: rgla();
+  padding: 20px;
+}
+
+
+  
+  
+  
