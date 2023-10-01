@@ -11,9 +11,8 @@ body {
   background-attachment: fixed;
   background-position: center center;
   color: black;
-  font-family:arial;
+  font-family: Arial;
   text-align: left;
-  margin: 0;
   padding: 0;
 }
 
@@ -52,7 +51,7 @@ body {
 }
 
 .button {
-  display: inline-block
+  display: inline-block;
   padding: 10px 20px;
   background-color: #fff;
   color: black;
@@ -66,7 +65,7 @@ body {
   display: block
 }
 
-button-hover {
+.button-hover {
   background-color: #f00
 }
   
