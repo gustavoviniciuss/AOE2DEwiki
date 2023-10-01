@@ -5,7 +5,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: black;
+  background-image: url(imagem);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -68,10 +68,3 @@ body {
 .button-hover {
   background-color: #f00
 }
-  
-  
-
-
-  
-  
-  
