@@ -1,8 +1,8 @@
 body {
   display: flex;
   flex-direction: column;
-  fustfy-content: flex-start;
-  align-itens: center;
+  justfy-content: flex-start;
+  align-items: center;
   height: 100vh;
   margin: 0;
   background-image: url;
@@ -20,11 +20,11 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  ain-height: 100hv;
+  ain-height: 100vh;
 
 }
 #content {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 1);
   padding: 20px;
 }
 
