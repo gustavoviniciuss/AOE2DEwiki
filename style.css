@@ -12,7 +12,6 @@ body {
   background-position: center center;
   color: black;
   font-family: Arial;
-  text-align: left;
   padding: 0;
 }
 
@@ -42,7 +41,6 @@ body {
     max-width:500px;
     margin-bottom:15px;
     margin: 20px 0;
-    text-align: left;
     color: white;
   }
 .button-container  {
