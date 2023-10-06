@@ -1,1 +1,23 @@
+<!DOCTYPE html> serve para definir qual tipo de codigo iremos usar, html 1 2 3 4 ou 5
 
+<html lang="pt-br"> qual idioma iremos usar
+
+<head> é o cabeçario
+
+<meta charset="UTF-8"> qual tipo de caracteres vamos usar
+
+ <div> </div> para o codigo saber o que separar do que
+
+<title> </title> defini o titulo da aba
+
+<body> </body> corpo do site
+
+<link rel="stylesheet" href="style.css"> defini o caminho do body
+
+<h1> </h1> defini o titulo da pagina
+
+<p1> </p1> começa um paragrafo
+
+<a </a> caminho de um link
+
+</html> serve para encerrar o site,(quando escrolar nao ir infinitamente para baixo)
