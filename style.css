@@ -5,6 +5,7 @@ body {
   align-items: left;
   height: 100vh;
   margin: 0;
+  background-color: #000;
   background-image: url(imagem);
   background-size: cover;
   background-repeat: no-repeat;
